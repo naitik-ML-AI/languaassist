@@ -1,0 +1,7 @@
+{
+  "name": "Local Language Learning Assistant",
+  "description": "An AI-powered voice translator that converts Indian regional languages to English to support inclusive education.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
