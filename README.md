@@ -1,6 +1,5 @@
-Project Title
-
-LanguaAssist – Local Language Learning Assistant using NLP & AI
+PROJECT NAME: LANGUAASSIST
+PROJECT TITLE: Local Language Learning Assistant using NLP, LLM & AI
 
 Problem Statement
 
