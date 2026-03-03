@@ -24,9 +24,10 @@ Key Features & Unique Value Proposition
 Technology Stack & AI Architecture
 Frontend
 
-HTML5
-Tailwind CSS
-JavaScript (UI logic, state management, and animations)
+HTML5,
+Tailwind CSS.
+JavaScript (UI logic, state management, and animations),
+
 Backend & AI Services
 
 Groq API
