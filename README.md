@@ -1,5 +1,5 @@
 PROJECT NAME: LANGUAASSIST
-Project Title
+Project Title 
 
 LanguaAssist – A Local Language AI Learning Assistant Powered by NLP and LLMs
 
@@ -25,11 +25,8 @@ Technology Stack & AI Architecture
 Frontend
 
 HTML5
-
 Tailwind CSS
-
 JavaScript (UI logic, state management, and animations)
-
 Backend & AI Services
 
 Groq API
